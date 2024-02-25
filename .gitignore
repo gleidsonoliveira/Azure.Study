@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Azure.KeyVault/Azure.KeyVault/obj/Debug/net8.0
+/Azure.KeyVault/.vs/Azure.KeyVault
+/Azure.KeyVault/Azure.KeyVault/obj
